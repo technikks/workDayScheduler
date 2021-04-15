@@ -1,11 +1,10 @@
 # workDayScheduler
 GW Coding Bootcamp Homework #5 
 
+
 ## Deployed URL 
 (https://technikks.github.io/workDayScheduler/)
 
-## Mock Up
-![Workday Scheduler Demo](Assets/05-third-party-apis-homework-demo.gif)
 
 ## Purpose
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. 
@@ -21,3 +20,8 @@ Create a simple calendar application that allows a user to save events for each 
     * Users will be presented with "Cancel" or "Save" button. 
     * Once saved, the details for the event will be saved in a local storage. 
     * When the page is refresh the saved event will still display. 
+
+
+## Mock Up
+![Workday Scheduler Demo](Assets/05-third-party-apis-homework-demo.gif)
+
