@@ -7,7 +7,7 @@ GW Coding Bootcamp Homework #5
 
 
 ## Purpose
-A simple calendar application that allows a user to save events for each hour of the day. 
+A simple calendar application that allows a user to view and add events for each hour of the current work day. 
 
 * User will be able to see the current day when schedule is open. 
 

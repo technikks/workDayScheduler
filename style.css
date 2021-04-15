@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
   font-size: 16px;
   line-height: 1;
 }
@@ -15,10 +15,20 @@ textarea{
 
 .jumbotron {
   text-align: center;
-  background-color: transparent;
+  background-color: rgb(221, 162, 255);
   color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
+}
+
+.display-3 {
+  font-family: Brush Script ML, cursive; 
+  font-size: 75px;
+  padding: 20px; 
+}
+
+.lead {
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
 }
 
 .description{
@@ -26,7 +36,7 @@ textarea{
 }
 
 .time-block{
-  text-align: center;
+  text-align: right;
   border-radius: 15px;
 }
 
@@ -43,17 +53,17 @@ textarea{
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #a8a8a8;
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color:rgb(221, 162, 255);;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #94fd94;
   color: white;
 }
 
@@ -61,7 +71,7 @@ textarea{
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06AED5;
+  background-color: #929292;
   color: white;
 }
 
