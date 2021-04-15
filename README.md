@@ -5,7 +5,7 @@ GW Coding Bootcamp Homework #5
 (https://technikks.github.io/workDayScheduler/)
 
 ## Mock Up
-(Assets/05-third-party-apis-homework-demo.gif)
+![Workday Scheduler Demo](Assets/05-third-party-apis-homework-demo.gif)
 
 ## Purpose
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. 
